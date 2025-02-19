@@ -78,7 +78,7 @@ We thank **IIT Guwahati** and **IDFC Bank** for organizing the hackathon, provid
 **👨‍💻 Contributors:**
 - Vinay Maguluri
 - Sandeep Kommineni
-- karthik Reddy
+- Karthik Reddy
 
 For any questions or collaboration, feel free to reach out! 📩
 
